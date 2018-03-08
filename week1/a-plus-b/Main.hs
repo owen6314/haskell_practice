@@ -1,0 +1,1 @@
+solution x y = x + y

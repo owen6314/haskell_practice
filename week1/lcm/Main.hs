@@ -1,0 +1,1 @@
+solution x y = div (x * y) (gcd x y)
